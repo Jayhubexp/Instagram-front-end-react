@@ -21,7 +21,7 @@ This project is a non-functional front-end Instagram clone built using React. It
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/instagram-clone-react.git
+   git clone https://github.com/Jayhubexp/Instagram-front-end-react.git
    ```
 
 2. Navigate to the project directory:
